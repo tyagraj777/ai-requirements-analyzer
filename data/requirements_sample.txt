@@ -1,0 +1,8 @@
+Project: E-commerce Website  
+Requirement:  
+- Users should be able to log in and purchase items.  
+- The system must be fast.  
+- Payment should be secure.  
+- There should be a user-friendly interface.  
+- No details on payment methods provided.
+- No clarity on performance expectations.
